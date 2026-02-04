@@ -20,6 +20,12 @@ p {
 h1 {
    color: #cdd6f4;
    font-family: MesloLGS;
+   padding: 0px;
+}
+h3 {
+   color: #cdd6f4;
+   font-family: MesloLGS;
+   padding: 0px;
 }
 h4 {
    font-family: MesloLGS;
